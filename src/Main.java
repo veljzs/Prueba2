@@ -1,8 +1,8 @@
 
 public class Main {
     public static void main(String[] args) {
-    System.out.println("hello word");
-
+    //System.out.println("hello word");
+    //modificado desde hotfix
     Personas jose;
 
     System.out.println("#######");
